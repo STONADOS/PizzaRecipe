@@ -1,6 +1,6 @@
 # PizzaRecipe by Jishnu Mahajan
 
-In this recipe we are going to pizza and this pizza is gonna made with yeast and
+In this recipe we are going to pizza and this pizza is not gonna made with yeast and
 oven, it is really delicious and the taste is fantabulous.........
 
 So let's get started with it......
